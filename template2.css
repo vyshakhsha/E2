@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  padding: 2%;
+  background: #12A89D;
+  color: white;
+  font-size: 3%;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 2%;
+  background-color: black;
+  color: white;
+  line-height: 2em;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.woba_icon {
+  width: 100px;
+  height: auto;
+}
+
+#cart_icon {
+  width: 65px;
+  height: auto;
+  float: right;
+  margin-top: 1.5%;
+}
+
+h1 {
+  font-size: 2.2em;
+  width: 100%;
+  text-align: center;
+  color: #373737
+}
+
+#p1 {
+  text-align: center;
+  font-size: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
+  line-height: 2em;
+  color: #707070
+}
+
+
+.button {
+  background-color: #12A89D;
+  border: none;
+  color: white;
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid #12A89D ;
+  border: none;
+  outline: none;
+}
+
+.order {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-1 {
+  width: 15%;
+}
+
+.col-2 {
+  width: 30%;
+}
+.col-3 {
+  width: 55%;
+}
+#shoes {
+  height: 100px;
+  width: auto;
+  display: inline-block;
+}
+
+hr {
+  width: 80%;
+}
+
+.shoe_image {
+  float: left;
+  background-color: rgb(244, 244, 244);
+  padding: 25px;
+}
+
+#let {
+  color: #12A89D;
+  text-decoration: none;
+}
+
+.button:hover {
+  color: #12A89D;
+  background-color: rgb(217, 250, 249);
+  border-radius: 5px;
+  border: 2px solid #12A89D ;
+  border: none;
+  outline: none;
+}
+
+.shoe_text {
+  white-space: pre;
+}
+#p2 {
+  text-align: center;
+  font-size: 1.2em;
+  margin-left: 10%;
+  margin-right: 10%;
+  line-height: 2em;
+  color: #707070
+}
